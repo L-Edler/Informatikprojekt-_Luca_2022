@@ -2,7 +2,7 @@
 
 <h3> ##Studenprotokol
 
-<b> Dienstag, der 16.08.2022
+### <a name="1"></a> Dienstag, der 16.08.2022
 Am heutigen Tag hatten wir unsere 1. Informatik Stunde. Nach einer Einführung in den Unterricht und einigen allgemeinen organisatorischen Infos durften 
 wir schon damit beginnen über unsere Projekte nachzudenken. Die zahlreichen Möglichkeiten machten die Projektfindungsphase nicht gerade einfach.
 

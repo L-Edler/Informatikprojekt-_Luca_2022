@@ -27,14 +27,16 @@ Auch konnte ich einige Erfolge verbuchen, da ich mit meiner "scrollenden" Welt i
 Am heutigen Mittwoch habe ich mich die letzte Stunde mit der scrollenden Welt beschäftigt. Die anfänglichen schwierigkeiten waren überwunden und mithilfe des Tutorials konnte ich meine Vorstellungen gut umsetzen. Hilfreich für meine Arbeit war hier das Tutorial (), im Code habe ich mich an diesem Video orientiert.
 Es baten sich hier einige Vorteile. Einerseits kam ich mit meinem Project voran, andererseits konnte ich nicht nur stupf den Code abschreiben, sondern auch verstehen was die einzigen Methoden und Befehle bewirken. Der Aspekt, das ich auch verstehe was ich während meines Projektes mache.
 Am Ende der Stunde konnte ich zufrieden auf mein Etappen Ergebniss zurück schauen. Ich habe anfängliche Probleme mit der "scrollenden" Welt überwunden und nun ein fertiges Grundgerüst für mein Jump&Run Spiel.
+Nun habe ich noch die Klasse "Mouse" eingeführt. Diese Mäuse können nun vom Spieler gefressen werden.
 
 ### <a name="1"></a> Dienstag, der 4.10.2022
 
-Katzen Bild erstellt
+In der heutigen Stunde habe ich mich mithilfe von "https://www.pixilart.com/draw" daran gemacht ein Bid für meinen Spieler zu erstellen. Mithilfe des Pixelzeichners, war die Umsetzung in der Theorie einfach möglich. Da ich aber künstlerisch weniger begabt bin, habe ich relativ lange gebraucht um ein Katzen Bild zu erstellen, was mit am Ende dann auch gefallen würde. Was neben dem Aussehen der Katze ebenfalls wichtig war, sind die Maße. Man muss sich immer bewusst sein, wie groß (in px.) das Bild für den jeweiligen Spieler ist. Dies ist wichtig um zu verhindern, dass manche Objekte in einerander geraten können. 
 
 ### <a name="1"></a> Mittwoch, der 05.10.2022 
 
-Score und Hindernisse
+In dieser Stunde war es mir wichtig, die räumliche Struktur des Spiels zu entwerfen. In meinem Spiel geht es besonders darum, von Mauer zu Mauer zu springen. Ich habe mich also daran gemacht, die einzelnen Hindernisse/Wege in die Spielwelt zu setzen. Da die Klasse bereits existiert, musste ich ledglich eine neue Mauer ins Spiel ziehen. Um zu stesten, ob die Sprünge von Mauer zu Mauer auch möglich sind, habe ich sie jeweils mit der Spielfigur getestet. Am Ende musste ich nun dafür sorgen, dass die Mauern auch im Spiel bleiben, hierfür gibt es verschiedene Methoden/Befehle, die ich in meiner Projektseite noch erläutern werde. 
+Zum Ende der Stunde hin habe ich nun noch einen Scorecounter eingefügt, der zählt, wieviele Mäuse vom Spieler gefressen wurden. 
 
 ### <a name="1"></a> Dienstag, der 25.10.2022
 
@@ -67,9 +69,10 @@ Der Hund bewegt ich zwischen den Büschen zwar hin und her, es sieht jedoch so a
 
 ### <a name="1"></a> Mittwoch, der 09.11.2022
 
-Heute habe ich direkt an die vergangene Stunde angeknüpft.
+Nachdem ich in der letzten Stunde noch das um 180 Grad gedrehte bild vom Hund erstellt habe, habe ich nun damit begonnen den Code für den Hund abzuschließen. Ich konnte mir das neu erstellte Bild zunutze machen und nun den patrollierenden Hund fertigstellen. Eine genaue Erklärung zum Code des Hundes findet sich auf der Projektseite.
 
 ### <a name="1"></a> Dienstag, der 15.11.2022
 Stunde entfällt
 
 ### <a name="1"></a> Mittwoch, der 16.11.2022
+In den heutigen Stunden habe ich mich mit der weiteren Ausgestaltung des Spiels beschäftigt. Da d

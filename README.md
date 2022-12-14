@@ -75,4 +75,4 @@ Nachdem ich in der letzten Stunde noch das um 180 Grad gedrehte bild vom Hund er
 Stunde entfällt
 
 ### <a name="1"></a> Mittwoch, der 16.11.2022
-In den heutigen Stunden habe ich mich mit der weiteren Ausgestaltung des Spiels beschäftigt. Da d
+In den heutigen Stunden habe ich mich mit der weiteren Ausgestaltung des Spiels beschäftigt. Ich habe einige neue Mäuse eingefügt und auch die Anzahl der Mauern noch erhöht und die Sprünge verändert. Außerdem habe ich mir schoneinmal gedanken dazu gemacht, welche Art von Actor ich in mein Spiel bringen möchte. Mir vielen direkt mehere Dinge ein, die das Spiel nochmal verändern können. 

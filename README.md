@@ -76,3 +76,19 @@ Stunde entfällt
 
 ### <a name="1"></a> Mittwoch, der 16.11.2022
 In den heutigen Stunden habe ich mich mit der weiteren Ausgestaltung des Spiels beschäftigt. Ich habe einige neue Mäuse eingefügt und auch die Anzahl der Mauern noch erhöht und die Sprünge verändert. Außerdem habe ich mir schoneinmal gedanken dazu gemacht, welche Art von Actor ich in mein Spiel bringen möchte. Mir vielen direkt mehere Dinge ein, die das Spiel nochmal verändern können. 
+  
+### <a name="1"></a> Dienstag, der 22.11.2022
+Unterricht entfällt wegen Vorabitur.
+  
+### <a name="1"></a> Mittwoch, der 23.11.2022
+In der heutigen Stunde habe ich begonnen neue Actor einzufügen, die noch als Hinderniss diehnen sollen. Ich habe mich für eine Bombe entschieden. Da diese nur herum  steht und nichts weiter tut, als den Spieler bei berührung zu "töten, war es nicht sonderlich schwer diese einzufügen, da der Code praktisch schon existierte. Während ich die Bombe nun ins Spiel einfügte, fiel mir auf, dass es etwas langweilig ist, wenn nach dem Tod des Spielers nichts mehr passiert. Es felht also eine Art Todemeldung. Zum einen soll optisch klargemacht werden, dass der Spieler gestorben ist. Hierzu würde es sich eignen, dass eine Art Totenkopf erscheint, wenn man stirbt. Ich habe mich nun daran gemacht, das passende Bild auf Pixel Art zuerstellen. 
+  
+### <a name="1"></a> Dienstag, der 29.11.2022
+Unterricht entfällt
+  
+### <a name="1"></a> Mittwoch, der 30.11.2022
+Unterricht entfällt
+  
+### <a name="1"></a> Dienstag, der 06.12.2022
+Heute habe ich dirket an letzte Stunde angeknüpft. Ich habe den Totenkopf zuende gezeichnet und konnte dann die Annimation erstellen. Ich habe den Befehl zum zeigen dieses Totenkopfes einfach in alle Methoden eingefügt, die den Player töten. Jetzt fehlte mir noch eine entscheidene Sache. Es musste eine Art Victory/Lose meldung geben, wie sie in vielen Spielen vorhanden ist. Ich habe mich dafür entschieden, eine neue Weltklasse zuerstellen. Zum einen eine Endgame und eine Victory/Finish klasse. Diese beiden sollen dann erstellt werden, wenn man entweder gefressen wurde -> Endgame oder das Spiel beendet hat -> Finish. Die Weltklasse, die dann erscheinen soll ist eine leere Welt, in der lediglich ein Text erscheint, der sagt, ob man gewonnen oder verloren hat.
+ 

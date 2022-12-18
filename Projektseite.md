@@ -45,7 +45,7 @@ Mein Szenario heißt:Cat_Jump&Run
 
 In diese Szenarios lassen sich jetzt ganz verschieden Klassen einfügen. 
 
-![image](https://user-images.githubusercontent.com/111414185/208303678-a3aece75-c214-481c-9dd2-58fec5a943aa.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/111414185/208303715-c5c5850e-b055-4f68-8590-ba95f91b1056.png)
 
 
 

@@ -106,7 +106,22 @@ public List<Actor> giveMeAllActors()
 
 Im Gegensatz zu anderen Methoden, haben wir hier kein void mehr. Das bedeutet, die Methode hat einen Rückgabewert, nämlich eine Liste mit allen Actors
 Wer also diese Methode aufruft, erhält eine Liste mit allen Actors.
-
+   
+In dieser Methode wird dann mittels des Greenfoot Befehls "getObjects(Actor.class)" festgelegt, was die Liste enthalten soll.
+Um dann dafür zu sorgen, dass die Informationen der Liste auch an den zurückgehen, der die Methode aufruft, wird der "return" befehl genutzt.
+   
+Nun wird einer Zählerschleife generiert, die die bereits generierte Liste immerwieder durch geht. 
+Diese Schleife zählt von 0 (dem ersten Objekt der Liste), solange der Zähler kleiner ist als die größe der Liste. 
+   
+Bsp. Würde die Liste 10 Actors enthalten, würde die Zählerschleife von 0 bis 9 zählen. 
+   
+Gezählt wird in einser Schritten (zaehler++)
+   
+Nun kann man mit dem SetLocation Befehl die Position aller Actors verschieben.
+   
+![Screenshot (40)](https://user-images.githubusercontent.com/111414185/208309133-59d07353-c171-4049-b1c0-ae54929628ed.png)
+   
+   
 
 
 

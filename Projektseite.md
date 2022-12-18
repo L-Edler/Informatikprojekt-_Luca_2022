@@ -95,7 +95,8 @@ Funktionieren wird die Bewegung nach links und rechts jedoch noch nicht. Mit den
 Auf dem Bild sieht man die entsprechende Methode. Diese besagt eben genau das, dass das Hintergrundbild mit den veränderten Parametern, neu geladen/gezeichnet(draw) werden soll.
 Da die CatWorld Klasse nun selber etwas tun muss einer "Act Methode" eingefügt werden. Diese sorgt einfach nur dafür, dass die Methode zum Neuladen der Welt ständig ausgeführt wird. 
 
-![image](https://user-images.githubusercontent.com/111414185/208307658-283342f9-6d4b-4968-8843-98fb9d3ebce5.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/111414185/208307780-02c6c517-6544-4fba-a213-2c76a76f9334.png)
+
 
 
 

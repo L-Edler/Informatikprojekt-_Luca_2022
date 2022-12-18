@@ -139,14 +139,17 @@ Das Bild wird als Hintergrund festgelegt.
 UM Schrift einzufügen muss unteranderem die Schriftart angepasst werden: "Font f = new Font ("SansSerif", 60);". Font bedeutet Schriftart.
 Es wird also Eine Schriftart (Font) ausgewähltl, diese ist hier SansSerif, hierbei handelt es sich um eine normale Schriftart, genauso wie man z.B Arial oder Times New Roman kennt.
      
-Die Frabe wird mittel setcolor Rot. 
+Die Frabe wird mittels "setcolor" Rot. 
 Und mit dem Befehl "draw String Message" kann dann die vorher festgelegte Stringmessage eingefügt werden. 
 
 Das Endergebniss sieht wie folgt aus:
      
 ![Screenshot (46)](https://user-images.githubusercontent.com/111414185/208310965-851dc515-6756-495d-81c2-8264eb0fdc20.png)
 
-
+Oder für den Victory Screen so: 
+     
+![Screenshot (48)](https://user-images.githubusercontent.com/111414185/208311095-0729a225-24f7-4cf4-8d4f-72555e15c905.png)
+     
 
 
         

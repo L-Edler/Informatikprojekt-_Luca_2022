@@ -8,16 +8,10 @@
 [Spielprinzip](#Spielprinzip)
 
 [Code](#Code)
-   
-   [Weltklassen](#Weltklassen)
+
+[Weltklassen](#Weltklassen)
      
-     [Laser](#Laser)
-     
-     [Sender](#Sender)
-   
-   [Actorklassen](#Actorklassen)
-     
-     [Hindernisse](#Hindernisse)
+[Actorklassen](#Actorklassen)
 
 [Endprodukt](#Endprodukt) 
 

@@ -8,7 +8,7 @@
 [Aufbau](#Aufbau)
    [Grundprinzip](#Grundprinzip)
 
-[Der Code des Spiels](#Der Code des Spiels)
+[Der Code](#Der Code)
    
    [Weltklassen](#Weltklassen)
      

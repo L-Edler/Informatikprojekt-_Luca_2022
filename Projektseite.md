@@ -49,7 +49,8 @@ In diese Szenarios lassen sich jetzt ganz verschieden Klassen einfügen.
 
 Wie im Bild zusehen ist, habe ich zwei "Oberklassen" erstellt, nämlich die "World" und "Actor" Klassen. In diesen "Oberklassen" gibt es dann mehere "Unterklassen", die sog. "subclasses". Diese erstellt man mit einem Rechtsklick auf die "Oberklassen".
 
-In meinem Spiel geht es in der Klasse "World" um die Spielwelt. Hier ist die subclass "CatWorld" am wichtigsten, da diese subclass die Spielwelt ist.
+In meinem Spiel geht es in der Klasse "World" unteranderem um die Spielwelt. Hier ist die subclass "CatWorld" am wichtigsten, da diese subclass die Spielwelt ist.
+
 
 
 

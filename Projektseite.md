@@ -2,15 +2,15 @@
 
 ## [Programm](#Programm)
 
-## [Spielprinzip](#Spielprinzip)
+### [Spielprinzip](#Spielprinzip)
 
-## [Code](#Code)
+#### [Code](#Code)
 
-## [Weltklassen](#Weltklassen)
+##### [Weltklassen](#Weltklassen)
      
-## [Actorklassen](#Actorklasssen)
+###### [Actorklassen](#Actorklasssen)
 
-## [Endprodukt](#Endprodukt)
+####### [Endprodukt](#Endprodukt)
 
 [Stundenprotokoll](https://github.com/L-Edler/Blog-2022/blob/main/Stundentagebuch.md)
  

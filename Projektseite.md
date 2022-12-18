@@ -51,6 +51,12 @@ Wie im Bild zusehen ist, habe ich zwei "Oberklassen" erstellt, nämlich die "Wor
 
 In meinem Spiel geht es in der Klasse "World" unteranderem um die Spielwelt. Hier ist die subclass "CatWorld" am wichtigsten, da diese subclass die Spielwelt ist.
 
+Um einer subclass dann Leben einzuhauchen muss im Editor der Code geschrieben werden. Dieser kann in verschiedene Methoden unterteilt werden, die der subclass Befehle geben. Jede Klasse hat außerdem ihren eigenen Editor. 
+
+![Screenshot (23)](https://user-images.githubusercontent.com/111414185/208304659-5df9ba55-85c0-4ef6-a544-23b56f2c085f.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/111414185/208304667-c7346830-2a38-46f8-bd5a-e741a5b28d71.png)
+
+
 
 
 

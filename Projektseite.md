@@ -1,10 +1,10 @@
 
 
-[Programm](#Programm)
+## [Programm](#Programm)
 
-[Spielprinzip](#Spielprinzip)
+## [Spielprinzip](#Spielprinzip)
 
-[Code](#Code)
+## [Code](#Code)
 
 [Weltklassen](#Weltklassen)
      

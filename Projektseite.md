@@ -1,20 +1,17 @@
-# Informatik Projekt Nr.2 : The Mirror Game
-*von Teda und Leonard, 12e*
+# Informatik Projekt Nr.1 : Cat-Jump&Run
+
 
 ## Inhaltsverzeichnis
 
 * [Programm](#Programm)
 * [Aufbau](#Aufbau)
   * [Grundprinzip](#Grundprinzip)
-  * [Start und Ende](#Start-und-Ende)
-* [Wichtige Objekte](#Wichtige-Objekte)
-  * [Spiegel](#Spiegel)
-  * [Laser](#Laser)
-  * [Sender](#Sender)
-  * [Empfänger](#Empfänger)
-  * [Hindernisse](#Hindernisse)
-* [Extras](#Extras)  
-  * [Anleitung](#Anleitung)
-  * [Münze](#Münze)
-  
+
+* [Die Aktoren/Actors]
+  *[Weltklassen]
+   * [Laser](#Laser)
+   * [Sender](#Sender)
+  * [Actorklassen](#Empfänger)
+   * [Hindernisse](#Hindernisse)
+
 * [Endprodukt](#Endprodukt) 

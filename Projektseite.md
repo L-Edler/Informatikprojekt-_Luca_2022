@@ -52,6 +52,8 @@ Im Editor gibt es dann verschiedne Methoden, die in den gelben Kästen gezeigt s
 
 ### Die Weltklassen <a name="Weltklassen"></a>
 
+#### Die CatWorld <a name=Catworld></a>
+
 In der "public CatWorld" Methode werden u.a. die Parameter der Welt fest gelegt.
 
 ![Screenshot (26)](https://user-images.githubusercontent.com/111414185/208305363-154fbf59-8db1-4597-84ac-a1a62fb5d8e1.png)

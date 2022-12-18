@@ -179,8 +179,29 @@ Nun muss noch eine Methode ergänzt werden, die Entscheidet, ob der Player falle
 Dazu kann wieder die Onground Methode genutzt werden, welche ermittelt, ob der Player auf festem Boden steht, oder nicht. 
 Sollte kein Boden da sein, muss der Spieler fallen, es wird also die bereist erstellte "falling" Methode genutzt.
 Ist Boden in der nähe wird die Fallgeschwindigkeit gleich null gesetzt. Der Spieler steht.
+     
+![Screenshot (56)](https://user-images.githubusercontent.com/111414185/208313039-16e67417-bcb6-45c2-bc51-372322ba62c0.png)
 
 Nun kann der Spieler fallen, sollte er aber auf einer Platform stehen, fällt er nicht mehr. 
+
+Wenn der Spieler bis ganz ans untere Ende der Welt fällt, verschwindet sein Bild zu hälfte um dem Entgegen zu wirken wird die Fallgrenze auf einige Pixel über dem Boden erhöht. 
+     
+Nach dem unfangreichen ausgstalten des Fallens, ist der Sprung selber sehr einfach. Es braucht lediglich eine Methode, nach deren Aktivierung der Spieler um eine bestimmte Anzahl an Pixel in die höhe geht z.B 20. Wichtig! um nach oben zukommen muss es -20 heißen. (siehe Koordinatensystem Greenfoot)
+     
+![Screenshot (59)](https://user-images.githubusercontent.com/111414185/208313231-05f564b3-6ccf-4477-a6dd-b128a958c9dd.png)
+     
+Eine weitere wichtige Methode ist die "Essen" Methode. 
+Hier wird dagestellt, dass sich einige Actors gegenseitig essen können. z.B der HUnd die Katze, die Katze die Maus oder die Katze kann auch sterben wenn sie Ufo oder Bombe berührt. 
+     
+Um dies zu bewerkstelligen wird immer wieder der selbe Code genutzt. 
+     
+     ![Screenshot (61)](https://user-images.githubusercontent.com/111414185/208313416-83d14717-98d9-4155-8805-b5ad659566a2.png)
+![Screenshot (63)](https://user-images.githubusercontent.com/111414185/208313461-8f57a3bb-a893-49c8-97ae-d5a19ce6ef5e.png)
+
+Auf dem oberen der beiden Bilder sieht man die Methode, damit die Katze die Maus frisst. Die Maus wird bei Berührung mit der Katze aus der Spielwelt entfernt.
+Die Besonderheit hier besteht darin, dass immer wenn die Katze eine Maus frisst, der Score Counter um 1 erhöht wird. 
+     
+Das untere Bild zeigt die Methode, mit der der Hund die Katze frisst. Es ist fasst das gleiche wie bei der Katze/Maus. Hier wird nur der Score Counter nicht erhöht. Außerdem wird, bevor der GameOver Screen aktiviert wird, für einen kurzen Moment (delay) ein Bild eines Totenschädels anstelle der Katze gezeigt. Dies Symbolisiert den Tod.
 
 
 

@@ -12,6 +12,8 @@
 
 ## [Fazit](#Fazit)
 
+## [Quellen](#Quellen)
+
 ## [Stundenprotokoll](https://github.com/L-Edler/Blog-2022/blob/main/Stundentagebuch.md)
  
 
@@ -229,6 +231,11 @@ Die Ufos bewegen sich mit einer Startgeschwindigkeit in eine Richtung. Sie wechs
 Nach dem ich nun meinen Code erklärt habe, möchte ich noch einmal auf das Projekt und die Arbeit daran zurück blicken. 
 Am Anfang des Halbjahres hatte ich noch keine Ahnung von Informatik und war auch nicht sonderlich begeister mich nun in solch ein völlig neues Thema zu stürzen. Aber schon nach kurzer Zeit habe ich gemerkt wie viele Möglichkeiten dieses Projekt bietet. Ich habe mich ausreichend damit auseinander gesetzt und einfachmal angefangen, so konnte ich in den einzelnen Stunden mir immer mehr Wissen aneingnen und dies in mein Projekt integrieren. Die Arbeit an meinem Projekt dirket hat mir größten Teils wirklich Freude bereitet. Ich habe viel neues gelernt und konnte, was besonders wichtig ist, alles ausprobieren, was ich wollte. Ich habe Stück für Stück vom meinem Projekt mit viel Zeit zum verstehen der Methoden und Befehle gebracht. Am Ende bin ich mt dem Projekt zwar zufrieden, denke aber, dass ich noch viel besser machen könnte und bin deshalb schon sehr auf das Projekt im neuesn Halbjahr gespannt. 
      
+
+## Quellen <a name="Quellen"></a>
+     
+Greenfoot Tutorials: https://www.greenfoot.org/doc/tut-1
+Scrolling World/Jump&Run Tutorial-> Hintergundbild des Spiels, sowie Teile des Codes: https://www.youtube.com/watch?v=RHPhyhF7c3k (Teil 1&2);  https://www.youtube.com/watch?v=FoD7cjW_5lU (Teil 1&2) 
  
 
 

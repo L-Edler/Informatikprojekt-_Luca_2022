@@ -3,15 +3,18 @@
 
 ## Inhaltsverzeichnis
 
-* [Programm](#Programm)
-* [Aufbau](#Aufbau)
-  * [Grundprinzip](#Grundprinzip)
+[Programm](#Programm)
 
-* [Der Code des Spiels]
+[Aufbau](#Aufbau)
+   [Grundprinzip](#Grundprinzip)
+
+[Der Code des Spiels]
+   
    [Weltklassen](#Weltklassen)
-   * [Laser](#Laser)
-   * [Sender](#Sender)
+     [Laser](#Laser)
+     [Sender](#Sender)
+   
    [Actorklassen](#Empfänger)
-   * [Hindernisse](#Hindernisse)
+     [Hindernisse](#Hindernisse)
 
-* [Endprodukt](#Endprodukt) 
+[Endprodukt](#Endprodukt) 

@@ -1,8 +1,5 @@
 # Informatik Projekt Nr.1 : Cat-Jump&Run
 
-
-## Inhaltsverzeichnis
-
 [Programm](#Programm)
 
 [Spielprinzip](#Spielprinzip)

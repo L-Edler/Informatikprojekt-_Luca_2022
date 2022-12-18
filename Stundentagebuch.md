@@ -1,6 +1,6 @@
 # Blog-2022
 
-<h3> ##Studenprotokol
+<h3> ##Studentagebuch
 
 ### <a name="1"></a> Dienstag, der 16.08.2022
 Am heutigen Tag hatten wir unsere 1. Informatik Stunde. Nach einer Einführung in den Unterricht und einigen allgemeinen organisatorischen Infos durften 

@@ -101,4 +101,15 @@ Unterricht entfällt
   
 ### <a name="1"></a> Dienstag, der 06.12.2022
 Heute habe ich dirket an letzte Stunde angeknüpft. Ich habe den Totenkopf zuende gezeichnet und konnte dann die Annimation erstellen. Ich habe den Befehl zum zeigen dieses Totenkopfes einfach in alle Methoden eingefügt, die den Player töten. Jetzt fehlte mir noch eine entscheidene Sache. Es musste eine Art Victory/Lose meldung geben, wie sie in vielen Spielen vorhanden ist. Ich habe mich dafür entschieden, eine neue Weltklasse zuerstellen. Zum einen eine Endgame und eine Victory/Finish klasse. Diese beiden sollen dann erstellt werden, wenn man entweder gefressen wurde -> Endgame oder das Spiel beendet hat -> Finish. Die Weltklasse, die dann erscheinen soll ist eine leere Welt, in der lediglich ein Text erscheint, der sagt, ob man gewonnen oder verloren hat.
- 
+
+### <a name="1"></a> Mittwoch, der 07.12.2022
+In der heutigen Stunde wollte ich mein Spiel nun abschließen. Also habe ich das letzte Objekt eingefügt, was in meinem Spiel platz finden sollte. Hier wollte ich eine Art fliegenden Gegner, der das voran kommen im Spiel noch etwas schwere macht. Als fliegendes Objekt habe ich mir ein Ufo überlegt. Meine Idee war es, dass die Ufos im Spiel umher fliegen und den Spieler bei Kontakt töten. Das Bild habe ich wieder bei PixelArt erstellt. Den Code konnte ich zum Teil schon aus anderen Klassen übernehmen, lediglich die Bewegungen musste ich neu erstellen. Am Ende der Stunde konnte ich dann sagen, dass mein Spiel fertig ist und lediglich einige Optische veränderungen am Code noch erledigt werden müssen. 
+
+### <a name="1"></a> Dienstag, der 13.12.2022 
+Heute habe ich mich noch mit der optischen Verbesserung des Codes beschäftigt. Ich habe die Methoden der einzelnen Actors sortiert und auch in ein gutes, einheitliches Format gebracht. Mehr war in dieser Stunde nicht mehr zu erledigen.
+
+### <a name="1"></a> Mittwoch, der 14.12.2022 
+In der letzten Stunde. vor Ende der Abgabefrist, habe ich mich lediglich mit der Ausarbeitung meiner Projektseite beschäftigt. Am Spiel selber, habe ich nichts mehr verändert.
+
+
+<h3 id="kapitel2">2. Quellen</a></h2></li>

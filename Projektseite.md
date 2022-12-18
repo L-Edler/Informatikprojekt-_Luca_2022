@@ -38,7 +38,9 @@ Das Prinzip meines Spiels ist recht sympel. Von einem Jump&Run hat fast jeder sc
 ## Der Code <a name="Code"></a>
 
 Nun möchte ich mit der Erklärung meines Codes, dem Herzstück des Spiels, beginnen. Wie Eingangs bereits erwähnt kann man bei Greenfoot versch. Szenarien erstellen und diese dann mit Klassen füllen. 
+
 ![Screenshot (19)](https://user-images.githubusercontent.com/111414185/208303576-6b1481fb-2f3d-4d99-80af-3e59a2062ab0.png)
+
 Mein Szenario heißt:Cat_Jump&Run
 
 

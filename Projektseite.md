@@ -97,7 +97,15 @@ Da die CatWorld Klasse nun selber etwas tun muss einer "Act Methode" eingefügt 
 
 ![Screenshot (36)](https://user-images.githubusercontent.com/111414185/208307780-02c6c517-6544-4fba-a213-2c76a76f9334.png)
 
+Mit diesem Code gibt es jetzt jedoch noch ein Problem. Nämlich wird nur der Hintergrund des Spielers bewegt, sodass es so aussieht, als würde er sich bewegen. In Wahrheit steht er auf der Stelle. Platziert man nun einen anderen Actor im Spiel wird sich dieser auch mitbewegen, und nicht am Spieler vorbei ziehen, wie es die Welt tut. Es gilt also dafür zu sorgen, dass Objekte sich nicht mehr mit dem Spieler bewegen, also ähnlich wie das Hintergrundbild wegscrollen.
+Dafür werden alle Actors in einer Liste gespeichert
 
+Für diese Liste wird wieder eine Methode erstellt.
+
+public List<Actor> giveMeAllActors() 
+
+Im Gegensatz zu anderen Methoden, haben wir hier kein void mehr. Das bedeutet, die Methode hat einen Rückgabewert, nämlich eine Liste mit allen Actors
+Wer also diese Methode aufruft, erhält eine Liste mit allen Actors.
 
 
 

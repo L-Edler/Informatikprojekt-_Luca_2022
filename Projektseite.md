@@ -8,7 +8,7 @@
 [Aufbau](#Aufbau)
    [Grundprinzip](#Grundprinzip)
 
-[Der Code](#Der Code)
+[Code](#Code)
    
    [Weltklassen](#Weltklassen)
      

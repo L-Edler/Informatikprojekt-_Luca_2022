@@ -10,7 +10,7 @@
      
 ### [Actorklassen](#Actorklasssen)
 
-## [Endprodukt](#Endprodukt)
+## [Fazit](#Fazit)
 
 ## [Stundenprotokoll](https://github.com/L-Edler/Blog-2022/blob/main/Stundentagebuch.md)
  
@@ -202,7 +202,37 @@ Auf dem oberen der beiden Bilder sieht man die Methode, damit die Katze die Maus
 Die Besonderheit hier besteht darin, dass immer wenn die Katze eine Maus frisst, der Score Counter um 1 erhöht wird. 
      
 Das untere Bild zeigt die Methode, mit der der Hund die Katze frisst. Es ist fasst das gleiche wie bei der Katze/Maus. Hier wird nur der Score Counter nicht erhöht. Außerdem wird, bevor der GameOver Screen aktiviert wird, für einen kurzen Moment (delay) ein Bild eines Totenschädels anstelle der Katze gezeigt. Dies Symbolisiert den Tod.
+    
+Zum Schluss noch ein kleiner Blick auf die Bewegung der Actors "Enemy_Dog" und "Ufo". Der HUnd kann sich im Spiel nur zwischen zwei Büschen bewegen und läuft hin und her. Er startet, bei Spielgebinn, kurz hinter der Katze und der Spieler muss ihm als erstes ausweichen. 
+     
+     
+Der HUnd bewegt sich hin und her. Eine Boolean Methode sucht nach Büschen um den Hund herum. Ist ein Bush in der nähe, also die Bush Variable ungleich null gibt die Methode dies zurück. 
+     
+![Screenshot (67)](https://user-images.githubusercontent.com/111414185/208314205-eedf02d3-a2bd-4063-8017-8b3380b6e2af.png)
 
+    
+In einer anderen Methode wird dann dies abgefragt und je nach Ergebniss entschieden, wie sich der Hund verhalten soll. Ist ein "Bush" vorhanden, läuft der Hund absofort in die Gegenrichtung. Damit es nicht so aussieht, als würde er rückwärts laufen, wird auch ein gespiegeltes Bild des Hundes eingefügt. 
+     
+![Screenshot (69)](https://user-images.githubusercontent.com/111414185/208314229-c0a0f505-2621-427b-b542-19b88cf80a62.png)
+
+     
+Zuletzt geht es noch um die Bewegung der Ufos. Diese sind frei umherfliegend.
+Die Ufos bewegen sich mit einer Startgeschwindigkeit in eine Richtung. Sie wechseln dann nach einer zufälligen Strecke von 1-100 pixeln ihre Richtung und drehen sich um einen zufälligen winkel von -45 bis 45 Grad. Sollten sie auf eine Wand treffen, drehen sie sich ebenfalls im zufälligen Berich und kehren um. 
+     
+![image](https://user-images.githubusercontent.com/111414185/208314374-9024155c-3c67-4f9d-90d4-4a1887c3c860.png)
+
+     
+     
+     
+## Fazit <a name="Fazit"></a>   
+     
+Nach dem ich nun meinen Code erklärt habe, möchte ich noch einmal auf das Projekt und die Arbeit daran zurück blicken. 
+Am Anfang des Halbjahres hatte ich noch keine Ahnung von Informatik und war auch nicht sonderlich begeister mich nun in solch ein völlig neues Thema zu stürzen. Aber schon nach kurzer Zeit habe ich gemerkt wie viele Möglichkeiten dieses Projekt bietet. Ich habe mich ausreichend damit auseinander gesetzt und einfachmal angefangen, so konnte ich in den einzelnen Stunden mir immer mehr Wissen aneingnen und dies in mein Projekt integrieren. Die Arbeit an meinem Projekt dirket hat mir größten Teils wirklich Freude bereitet. Ich habe viel neues gelernt und konnte, was besonders wichtig ist, alles ausprobieren, was ich wollte. Ich habe Stück für Stück vom meinem Projekt mit viel Zeit zum verstehen der Methoden und Befehle gebracht. Am Ende bin ich mt dem Projekt zwar zufrieden, denke aber, dass ich noch viel besser machen könnte und bin deshalb schon sehr auf das Projekt im neuesn Halbjahr gespannt. 
+     
+ 
+
+
+     
 
 
 

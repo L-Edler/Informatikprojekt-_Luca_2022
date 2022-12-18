@@ -53,7 +53,7 @@ Heute habe ich weiter an der Jump&Run Mechanik gearbeitet und konnte sie mithilf
 Die heutige Stunde began ich mit der Absicht heraus zufinden, wie ich eine scrollende Welt erstellen kann. Dies ist für mein Jump&Run spiel enorm wichtig da ich nicht nur in einer 
 kleinen Welt spielen will. Andererseits, muss sich meine Welt natürlich auch mitbwegen, ohne das der Spieler aus dem Sichtbereich läuft und man nicht manuell mit scrollen muss. Ein Youtube Tutorial sollte hier für Abhilfe sorgen.
 Jedoch stieß ich auf einige Probleme die Code Ideen des Tutorials in mein bereits reichlich gefülltes Spiel zu übernehmen, da der Macher des Tutorials davon ausging, eine leere Welt zu nutzen.
-Nach einigen Fehlern beschloss ich nun erst diese Scrollende Welt aufzubauen, also quasi neu anzufangen, und dann meine restlichen Code Teile, wie die Mechanik des Spielers später dort eonzufügen.
+Nach einigen Fehlern beschloss ich nun erst diese Scrollende Welt aufzubauen, also quasi neu anzufangen, und dann meine restlichen Code Teile, wie die Mechanik des Spielers, später dort einzufügen.
 
 ### <a name="1"></a> Dienstag, der 27.09.2022
 

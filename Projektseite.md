@@ -7,7 +7,7 @@
 * [Aufbau](#Aufbau)
   * [Grundprinzip](#Grundprinzip)
 
-* [Die Aktoren/Actors]
+* [Der Code des Spiels]
   *[Weltklassen]
    * [Laser](#Laser)
    * [Sender](#Sender)

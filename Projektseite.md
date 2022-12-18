@@ -124,6 +124,34 @@ Im Bild zusehen: Ein Teil der Methode u.a die spawn Koordinaten für Player und 
 
 #### Die EndGame/Finish Klasse <a name="Die EndGame/Finish Klasse"></a>
    
+Die beiden Weltklassen EndGame und Finish sind als eine Art Mitteilung für den Spieler gedacht. 
+Beide erzeugen eine Meldung, entweder hat der Spieler gewonnen -> Finish oder er hat verloren -> EndGame.
+Der Code ist, bis auf den Text der Meldung und die Farbe, der selbe, weswegen ich nur ein Beispiel erläutern werde. 
+     
+![Screenshot (44)](https://user-images.githubusercontent.com/111414185/208310356-60f07344-0a0d-4ff8-9c8d-f416b1456bee.png)
+
+Im obrigen Bild ist der gesamte Code zusehen. Es handelt sich nur um eine einzige Methode.
+Der Sinn hinter der Klasse besteht darin, ein schwarzes Bild im Sichtfeld des Spielers zu erzeugen, was die Nachricht "GameOver" beinhaltet. Es wird also zuerst eine neue Welt erstellt. Diese ist in den Maßen sogroß wie die Sichtbare Spielwelt. 
+In diese Welt wird dann ein Bild eingefügt, was an Höhe und Breite die gesamte Welt ausfüllt. "GreenfootImage bg = new GreenfootImage(getWidth(), getHeight());"
+Weiter wird festgelegt, dass der Hintergrund Schwarz sein soll, und das ganze Bild schwarz ausgefüllt wird. "bg.setColor(Color.BLACK); bg.fillRect(0, 0, getWidth(), getHeight()); setBackground(bg);"
+     
+Das Bild wird als Hintergrund festgelegt.
+UM Schrift einzufügen muss unteranderem die Schriftart angepasst werden: "Font f = new Font ("SansSerif", 60);". Font bedeutet Schriftart.
+Es wird also Eine Schriftart (Font) ausgewähltl, diese ist hier SansSerif, hierbei handelt es sich um eine normale Schriftart, genauso wie man z.B Arial oder Times New Roman kennt.
+     
+Die Frabe wird mittel setcolor Rot. 
+Und mit dem Befehl "draw String Message" kann dann die vorher festgelegte Stringmessage eingefügt werden. 
+
+Das Endergebniss sieht wie folgt aus:
+     
+![Screenshot (46)](https://user-images.githubusercontent.com/111414185/208310965-851dc515-6756-495d-81c2-8264eb0fdc20.png)
+
+
+
+
+        
+     
+
 
 
 

@@ -63,8 +63,8 @@ Auch konnte ich einige Erfolge verbuchen, da ich mit meiner "scrollenden" Welt i
 
 ### <a name="1"></a> Mittwoch, der 28.09.2022
 
-Am heutigen Mittwoch habe ich mich die letzte Stunde mit der scrollenden Welt beschäftigt. Die anfänglichen schwierigkeiten waren überwunden und mithilfe des Tutorials konnte ich meine Vorstellungen gut umsetzen. Hilfreich für meine Arbeit war hier das Tutorial (), im Code habe ich mich an diesem Video orientiert.
-Es baten sich hier einige Vorteile. Einerseits kam ich mit meinem Project voran, andererseits konnte ich nicht nur stupf den Code abschreiben, sondern auch verstehen was die einzigen Methoden und Befehle bewirken. Der Aspekt, das ich auch verstehe was ich während meines Projektes mache.
+Am heutigen Mittwoch habe ich mich die letzte Stunde mit der scrollenden Welt beschäftigt. Die anfänglichen schwierigkeiten waren überwunden und mithilfe des Tutorials konnte ich meine Vorstellungen gut umsetzen. Hilfreich für meine Arbeit war hier das Tutorial https://www.youtube.com/watch?v=FoD7cjW_5lU, im Code habe ich mich an diesem Video orientiert.
+Es baten sich hier einige Vorteile. Einerseits kam ich mit meinem Projekt voran, andererseits konnte ich nicht nur stupf den Code abschreiben, sondern auch verstehen was die einzigen Methoden und Befehle bewirken. Der Aspekt, das ich auch verstehe was ich während meines Projektes mache.
 Am Ende der Stunde konnte ich zufrieden auf mein Etappen Ergebniss zurück schauen. Ich habe anfängliche Probleme mit der "scrollenden" Welt überwunden und nun ein fertiges Grundgerüst für mein Jump&Run Spiel.
 Nun habe ich noch die Klasse "Mouse" eingeführt. Diese Mäuse können nun vom Spieler gefressen werden.
 

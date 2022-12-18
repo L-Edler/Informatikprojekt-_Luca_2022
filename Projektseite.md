@@ -150,6 +150,24 @@ Oder für den Victory Screen so:
      
 ![Screenshot (48)](https://user-images.githubusercontent.com/111414185/208311095-0729a225-24f7-4cf4-8d4f-72555e15c905.png)
      
+### Die Actorklassen <a name="Actorklassen"></a>
+     
+Ein Spiel besteht natürlich nicht nur aus der Welt. Erst die Objekte in der Welt hauchen dem Spiel Leben ein. Bei mir heißen alle diese Objekte "Actor". 
+Der wichtigste Actor ist wohl die Spiel Figur, der "Player". Über die BEwegung des Players in der Spielwelt wurde bereits vieles gesagt. Jedoch kann sich die Spielfigur in einem klassischen JUmp&Run Spiel nicht nur nach links und rechts bewegen, sie kann natürlich auch springen. Das Springen wird also wie folgt umgesetzt.
+     
+Ein Sprung besteht bekannter weise aus zwei Phasen. Dem Sprung in die Höhe, also eine Steigphase und dem wieder herunterfallen, also eine Fallphase.
+
+Das fallen an sich zu erstellen ist nicht besonders schwierig. Man muss sich ledglich über den Aufbau der Welt in Greenfoot anhand eines Koordinatensystems bewusst sein. 
+Das folgende Bild soll dies einmal verdeutlichen.
+     
+![Screenshot (52)](https://user-images.githubusercontent.com/111414185/208311486-8c6478ab-d08e-4c12-ac09-06c439c20684.png)
+     
+Weiß man also wie das Koordinatensystem verläuft kann man eine einfache Methode schreiben, die die Y koordinate des Spielers um einen gewünschten Wert erhöht. Geschieht das dauert haft, fällt der Spieler
+
+     
+   
+
+     
 
 
         

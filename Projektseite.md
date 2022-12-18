@@ -84,7 +84,7 @@ In dieser Methode wird einerseits festgelegt wie sich der Spieler bewegt durch d
 Außerdem wird über das drücken der Tasten festgelegt, wie die X-Koordinate des Hintergrundbildes verändert wird, sodass dieser sich mit dem Spieler bewegt und der Spieler augenscheinlich weiter läuft. Die Änderung geschieht hier, weil wieder die public void changeBackgroundX(int changeX) Methode aufgerufen wird. 
 Wichtig ist hier die Belegung der Tasten umgekehrt zum Spieler zumachen, denn der Hintergund muss sich nach links bewegen, wenn der Spieler nach rehcts läuft und umgekehrt. 
 
-![image](https://user-images.githubusercontent.com/111414185/208307298-e4728b9d-10bb-4c7c-bd47-d362401f4bba.png)
+
 
 Funktionieren wird die Bewegung nach links und rechts jedoch noch nicht. Mit den oben gezeigten Methoden werden lediglich Variablen verändert. Der Hintergrund an sich tut also noch nichts. Es muss also dafür gesorgt werden, das sich der Hintergund auf Basis der durch den Druck der Taste "a" oder  "d" veränderten Variablen, neu erstellt, bzw. er neu geladen wird.
 

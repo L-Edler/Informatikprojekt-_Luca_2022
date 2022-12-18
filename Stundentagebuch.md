@@ -107,6 +107,8 @@ Am heutigen Tag habve ich mich wieder mit dem Thema Enemy beschäftigt. Ich woll
 Ich habe mich also damit beschäftigt, den Code so anzupassen, damit jene Bewegung auch entsteht. Den Hund nur in eine Richtung laufen zulassen war Anfangs kein Problem für mich. Jedoch stellte es sich als deutlich schwieriger heraus, dafür zu sorgen, dass der Hund auch wieder umdreht.
 Mit den Bereits vorher erstellten "Bush" Klassen habe ich eine Begränzung für den Bewegungsbereich des Hundes erstellt. Nun habe ich den Code zum gewünschten Ergebniss gebracht. Jedoch tauchten auch wieder Probleme auf. Eines dieser Probleme ist die Optische Bewegung des Hundes.
 Der Hund bewegt ich zwischen den Büschen zwar hin und her, es sieht jedoch so aus, als würde er Rückwärts gehen, wenn er umdreht. Um dieses Problem anzugehen musste ich also ein neues Bild erstellen, was den Hund umgedreht darstellt.
+![Screenshot (11)](https://user-images.githubusercontent.com/111414185/208299865-1a271cf3-39f3-4430-8413-1a661d3570d6.png)
+
 
 ### <a name="1"></a> Mittwoch, der 09.11.2022
 

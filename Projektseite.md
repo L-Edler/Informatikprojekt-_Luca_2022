@@ -35,6 +35,12 @@ Die Befehle, die ein Obkelt einer bestimmten Klasse ausführen soll, werden im E
 
 Das Prinzip meines Spiels ist recht sympel. Von einem Jump&Run hat fast jeder schoneinmal gehört. Falls nicht, auch nichts schlimm, der Name erklärt das Prinzip perfekt. Es gibt einen Spieler, der sich in einer zweidimensionalen Welt fortbewegen muss. Er kann springen und laufen. Außerdem muss der Spieler Hindernisse überwinden und auch Gegnern ausweichen um zu einer Art Ziel zukommen. Alles in allem ein Simples Prinzip. In meinem Spiel, ist der Spieler eine Katze. Die Katze kann mittels der Tasten "a" und "d" hin und her bewegt werden. Es besteht ebenfalls die Möglichkeit zu springen, was mittels drücken der "Leertaste/Space" geschieht. Der Spieler muss die Katze durch einer Welt steuern und Gegnern wie einem Hund, der am boden patrolliert oder auch umherfliegedem Ufos ausweichen, deren Flugbahn unberechenbar ist. Auch am Boden muss er sich vor Bomben in achtnehmen, die auf keinen Fall berührt werden sollten. Ziel ist es, einerseits so viele Mäuse wie möglich zu fressen, andererseist gilt es eine Pizza zu fressen, um das Spiel zu gewinnenn.
 
+## Der Code <a name="Code"></a>
+
+Nun möchte ich mit der Erklärung meines Codes, dem Herzstück des Spiels, beginnen. Wie Eingangs bereits erwähnt kann man bei Greenfoot versch. Szenarien erstellen und diese dann mit Klassen füllen. 
+![Screenshot (19)](https://user-images.githubusercontent.com/111414185/208303576-6b1481fb-2f3d-4d99-80af-3e59a2062ab0.png)
+Mein Szenario heißt:Cat_Jump&Run
+
 
 
 

@@ -56,7 +56,35 @@ Um einer subclass dann Leben einzuhauchen muss im Editor der Code geschrieben we
 ![Screenshot (23)](https://user-images.githubusercontent.com/111414185/208304659-5df9ba55-85c0-4ef6-a544-23b56f2c085f.png)
 
 Im Editor gibt es dann verschiedne Methoden, die in den gelben Kästen gezeigt sind (siehe Bild unten). Die einzelnen Methoden sind entweder mit private oder public betitelt. "public" Methoden können von allen Mitgliedern einer Klasse und abgeleiteten unterklassen eingesehen werden. Bei "private" Methoden, bleibt abgeleiteten Klassen der Zugriff auf die Methoden verwehrt. 
+
 ![Screenshot (25)](https://user-images.githubusercontent.com/111414185/208304667-c7346830-2a38-46f8-bd5a-e741a5b28d71.png)
+
+In der "public CatWorld" Methode werden u.a. die Parameter der Welt fest gelegt.
+
+![Screenshot (26)](https://user-images.githubusercontent.com/111414185/208305363-154fbf59-8db1-4597-84ac-a1a62fb5d8e1.png)
+
+background = new GreenfootImage("background_endless_01.png"), mit diesem Befehl wird das Hintergrundbild festgelegt.
+
+super(x, y, z) legt z.B die größe der Welt fest, die der Spieler sehen kann. 
+
+Das Spiel soll in meinem Fall aber größer sein als 1000px in X-Richtung.
+Die Hindernisse kann man auch außerhalb des Sichbaren bereiches setzen. Das stell also kein Problem dar. Jedoch würde der Spieler sich nur innerhalb der 1000px des Sichtfeldes bewegen können und am Rand nicht weiter laufen können. Hintergrund und Sichtfeld müssen sich also mit dem Spieler mitbewegen, sodass dieser immer im Zentrum des Spielfelds bleibt, also nicht mit dem Rand kollidiert. 
+
+Um also dafür zusorgen, dass der Hintergrund sich simultan mit dem Spieler bewegt/verändert muss ich die X-Koordinate des Hintergrundes verändern. 
+Dafür wird im Editor der CatWorld eine Methode erstellt, das verhalten bei einer veränderung der X-Koordinate beschreibt. (siehe Bild unten)
+
+![Screenshot (27)](https://user-images.githubusercontent.com/111414185/208306451-b26d4137-d6f3-4a87-ad7a-c7d37b3c557e.png)
+
+Nun braucht es aber auch noch den Spieler, der diese Methode aufruft und somit den Hintergrund bewegt.
+Im Code der "Player" class wird in der Methode "public void checkKeys()" dies getan. 
+In dieser Methode wird einerseits festgelegt wie sich der Spieler bewegt durch das drücken der Tasten "a" oder "d" wird die X-Koordinate des Spielers jeweils um 5 Pixel nach links oder rechts verschoben. 
+
+
+
+
+
+
+
 
 
 

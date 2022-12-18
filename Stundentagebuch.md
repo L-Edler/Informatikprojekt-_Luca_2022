@@ -33,8 +33,9 @@ Heute sollte es endlich losgehen. Ich habe mich also daran gemacht Greenfoot zu 
 ### <a name="1"></a> Mittwoch, der 31.08.2022 
 Heute habe ich das erste mal richtig mit Greenfoot gearbeitet. Ich habe angefangen das ,auf der Greenfoot Internetseite vorhandene, Tutorial abzuarbeiten. 
 Es findet sich unter https://www.greenfoot.org/doc und hat mehere Teile. Das Tutorial habe ich in dieser Stunde abgearbeitet.
- ![image]![Screenshot (5)](https://user-images.githubusercontent.com/111414185/208298741-c489871e-4a57-42e6-b070-409000009ca4.png)
+ ![image](https://user-images.githubusercontent.com/111414185/208299188-0cc50c59-cab9-4462-b57b-850ed09b53f2.png)
 
+ 
 ### <a name="1"></a> Dienstag, der 06.09.2022 
 Heute war es endlich soweit, ich wollte mit meinem eigenen Spiel beginnen. Die grobe Idee hatte ich schon im Kopf. Es sollte ein "Jump&Run" Spiel werden, wie man es z.B aus Supermario etc. kennt. Wobei der Charakter des Spiel für mich ersteinmal nebensächlich ist. Ich habe mir heute auch einen groben Plan überlegt, in welcher Reinfolge ich das Spiel programieren werde. Ich habe mich dazu entschieden ersteinmal, die Mechanik ins Spiel zu brinegn, die einen Spieler Springen und Fallen lässt. Also habe erst einmal recherchiert und bin schnell auf ein Video gestoßen, was genau diese Abläufe erklärt. Ich habe also zuerst einmal folgendes Video geschaut: https://www.youtube.com/watch?v=RHPhyhF7c3k (Teil 1 und 2).
 

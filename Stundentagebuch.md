@@ -71,6 +71,8 @@ Nun habe ich noch die Klasse "Mouse" eingeführt. Diese Mäuse können nun vom S
 ### <a name="1"></a> Dienstag, der 4.10.2022
 
 In der heutigen Stunde habe ich mich mithilfe von "https://www.pixilart.com/draw" daran gemacht ein Bid für meinen Spieler zu erstellen. Mithilfe des Pixelzeichners, war die Umsetzung in der Theorie einfach möglich. Da ich aber künstlerisch weniger begabt bin, habe ich relativ lange gebraucht um ein Katzen Bild zu erstellen, was mit am Ende dann auch gefallen würde. Was neben dem Aussehen der Katze ebenfalls wichtig war, sind die Maße. Man muss sich immer bewusst sein, wie groß (in px.) das Bild für den jeweiligen Spieler ist. Dies ist wichtig um zu verhindern, dass manche Objekte in einerander geraten können. 
+![Screenshot (9)](https://user-images.githubusercontent.com/111414185/208299760-f8720cd1-be7b-4826-b769-fbd38d967fbe.png)
+
 
 ### <a name="1"></a> Mittwoch, der 05.10.2022 
 

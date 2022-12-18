@@ -54,6 +54,8 @@ In meinem Spiel geht es in der Klasse "World" unteranderem um die Spielwelt. Hie
 Um einer subclass dann Leben einzuhauchen muss im Editor der Code geschrieben werden. Dieser kann in verschiedene Methoden unterteilt werden, die der subclass Befehle geben. Jede Klasse hat außerdem ihren eigenen Editor. 
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/111414185/208304659-5df9ba55-85c0-4ef6-a544-23b56f2c085f.png)
+
+Im Editor gibt es dann verschiedne Methoden, die in den gelben Kästen gezeigt sind (siehe Bild unten). Die einzelnen Methoden sind entweder mit private oder public betitelt. "public" Methoden können von allen Mitgliedern einer Klasse und abgeleiteten unterklassen eingesehen werden. Bei "private" Methoden, bleibt abgeleiteten Klassen der Zugriff auf die Methoden verwehrt. 
 ![Screenshot (25)](https://user-images.githubusercontent.com/111414185/208304667-c7346830-2a38-46f8-bd5a-e741a5b28d71.png)
 
 

@@ -134,6 +134,9 @@ Unterricht entfällt
   
 ### <a name="1"></a> Dienstag, der 06.12.2022
 Heute habe ich dirket an letzte Stunde angeknüpft. Ich habe den Totenkopf zuende gezeichnet und konnte dann die Annimation erstellen. Ich habe den Befehl zum zeigen dieses Totenkopfes einfach in alle Methoden eingefügt, die den Player töten. Jetzt fehlte mir noch eine entscheidene Sache. Es musste eine Art Victory/Lose meldung geben, wie sie in vielen Spielen vorhanden ist. Ich habe mich dafür entschieden, eine neue Weltklasse zuerstellen. Zum einen eine Endgame und eine Victory/Finish klasse. Diese beiden sollen dann erstellt werden, wenn man entweder gefressen wurde -> Endgame oder das Spiel beendet hat -> Finish. Die Weltklasse, die dann erscheinen soll ist eine leere Welt, in der lediglich ein Text erscheint, der sagt, ob man gewonnen oder verloren hat.
+![Screenshot (13)](https://user-images.githubusercontent.com/111414185/208300023-0c3cb35b-f768-4cd5-895b-67a583885dd4.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/111414185/208300048-9a50d367-26f9-4cf5-af69-c7d93652d7d7.png)
+
 
 ### <a name="1"></a> Mittwoch, der 07.12.2022
 In der heutigen Stunde wollte ich mein Spiel nun abschließen. Also habe ich das letzte Objekt eingefügt, was in meinem Spiel platz finden sollte. Hier wollte ich eine Art fliegenden Gegner, der das voran kommen im Spiel noch etwas schwere macht. Als fliegendes Objekt habe ich mir ein Ufo überlegt. Meine Idee war es, dass die Ufos im Spiel umher fliegen und den Spieler bei Kontakt töten. Das Bild habe ich wieder bei PixelArt erstellt. Den Code konnte ich zum Teil schon aus anderen Klassen übernehmen, lediglich die Bewegungen musste ich neu erstellen. Am Ende der Stunde konnte ich dann sagen, dass mein Spiel fertig ist und lediglich einige Optische veränderungen am Code noch erledigt werden müssen. 

@@ -169,10 +169,18 @@ Es muss also eine Methode her, die erkennt ob eine Platform unter dem Spieler is
 Hier kann man eine sog. boolean Methode nutzen. Diese liefert bei abruf eine Antwort, entweder wahr oder falsch. 
 Wir können also fragen, ob eine Platform unter dem Spieler ist.
 Wir erstellen eine Groundbelow Variable, die sagt, ob in einem gewissen abstand eine Platform vorhanden ist.
-Ist etwas in Reichweite, ist die Variable ungleich null, also bekommt man die entsprechende Antwort
+Ist etwas in Reichweite, ist die Variable ungleich null, also bekommt man die entsprechende Antwort.
 Ist nichts in Reichweite, ist die Variable gleich NUll.
      
 ![Screenshot (54)](https://user-images.githubusercontent.com/111414185/208311992-2c3fbd29-9c60-4b60-9071-1d51a524e201.png)
+
+
+Nun muss noch eine Methode ergänzt werden, die Entscheidet, ob der Player fallen muss, oder ob er stehen muss.
+Dazu kann wieder die Onground Methode genutzt werden, welche ermittelt, ob der Player auf festem Boden steht, oder nicht. 
+Sollte kein Boden da sein, muss der Spieler fallen, es wird also die bereist erstellte "falling" Methode genutzt.
+Ist Boden in der nähe wird die Fallgeschwindigkeit gleich null gesetzt. Der Spieler steht.
+
+Nun kann der Spieler fallen, sollte er aber auf einer Platform stehen, fällt er nicht mehr. 
 
 
 

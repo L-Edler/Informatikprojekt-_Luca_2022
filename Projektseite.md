@@ -1,4 +1,4 @@
-# Informatik Projekt Nr.1 : Cat-Jump&Run
+
 
 [Programm](#Programm)
 

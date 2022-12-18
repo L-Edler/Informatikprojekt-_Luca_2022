@@ -84,9 +84,16 @@ In dieser Methode wird einerseits festgelegt wie sich der Spieler bewegt durch d
 Außerdem wird über das drücken der Tasten festgelegt, wie die X-Koordinate des Hintergrundbildes verändert wird, sodass dieser sich mit dem Spieler bewegt und der Spieler augenscheinlich weiter läuft. Die Änderung geschieht hier, weil wieder die public void changeBackgroundX(int changeX) Methode aufgerufen wird. 
 Wichtig ist hier die Belegung der Tasten umgekehrt zum Spieler zumachen, denn der Hintergund muss sich nach links bewegen, wenn der Spieler nach rehcts läuft und umgekehrt. 
 
+![image](https://user-images.githubusercontent.com/111414185/208307298-e4728b9d-10bb-4c7c-bd47-d362401f4bba.png)
 
+Funktionieren wird die Bewegung nach links und rechts jedoch noch nicht. Mit den oben gezeigten Methoden werden lediglich Variablen verändert. Der Hintergrund an sich tut also noch nichts. Es muss also dafür gesorgt werden, das sich der Hintergund auf Basis der durch den Druck der Taste "a" oder  "d" veränderten Variablen, neu erstellt, bzw. er neu geladen wird.
 
+![Screenshot (34)](https://user-images.githubusercontent.com/111414185/208307482-5129af49-a491-496c-b07c-43e0fb3e2b88.png)
 
+Auf dem Bild sieht man die entsprechende Methode. Diese besagt eben genau das, dass das Hintergrundbild mit den veränderten Parametern, neu geladen/gezeichnet(draw) werden soll.
+Da die CatWorld Klasse nun selber etwas tun muss einer "Act Methode" eingefügt werden. Diese sorgt einfach nur dafür, dass die Methode zum Neuladen der Welt ständig ausgeführt wird. 
+
+![image](https://user-images.githubusercontent.com/111414185/208307658-283342f9-6d4b-4968-8843-98fb9d3ebce5.png)
 
 
 

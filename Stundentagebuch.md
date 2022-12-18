@@ -20,6 +20,28 @@ wir schon damit beginnen über unsere Projekte nachzudenken. Die zahlreichen Mö
 In den heutigen beiden Stunden habe ich mich mit GitHub beschäftigt um zu lernen, wie ich effizient meine Stundenprotokolle und Projektseiten bearbeiten kann.
 Außerdem habe ich mich weiter mit der Frage beschäftigt, mit was genau ich nun in meinem Projekt beschäftigen möchte. 
 
+### <a name="1"></a> Dienstag, der 23.08.2022
+Nach einiger Zeit, die ich mit Überlegungen, hinsichtlich meiner Projektwahl verbracht habe, habe ich mich dafür entschieden, ein Spiel zu programieren. Ich habe also die Stunde genutzt, um mich über mögliche Platformen zu informieren, die dies ermöglichen. In der engeren Auswahl standen hier Greenfoot oder Snap. Ich habe mir also beide angeschaut und mir überlegtr, womit ich wohl besser zurecht kommen würde. Meine Wahl fiel auf Greenfoot. Als blutiger Anfänger sprach mich die Oberfläche sehr an und im Internet habe ich auch viel darüber lesen können. 
+
+### <a name="1"></a> Mittwoch, der 24.08.2022
+In der heutigen Stunde habe ich weiter recherchiert. Da ich mnich mit Greenfoot beschäftigen werde, will ich sicher sein, dass es genung Hilfen und hilfreiche Seiten gibt, die ich bei der Ausarbeitung meines Projektes nutzen kann. 
+Ich bin auf einige gute Seiten im Internet gestoßen, die ich später noch verlinken bzw. in der Projektseite via Link einfüge, sollte ich sie nutzen. 
+
+### <a name="1"></a> Dienstag, der 30.08.2022
+Heute sollte es endlich losgehen. Ich habe mich also daran gemacht Greenfoot zu instalieren. Ich habe mich für eine Installation des Programmes auf einem USB-Stick entschieden. So kann ich das Programm von unterschieldichen Geräten, sowohl in der Schule, als auch privat, öffnen. Außerdem bietet es sich an, um alle, für das Projekt wichtige Dateien gesammelt auf einem Datenträger zu haben. 
+
+### <a name="1"></a> Mittwoch, der 31.08.2022 
+Heute habe ich das erste mal richtig mit Greenfoot gearbeitet. Ich habe angefangen das ,auf der Greenfoot Internetseite vorhandene, Tutorial abzuarbeiten. 
+Es findet sich unter https://www.greenfoot.org/doc und hat mehere Teile. Das Tutorial habe ich in dieser Stunde abgearbeitet.
+ ![image]![Screenshot (5)](https://user-images.githubusercontent.com/111414185/208298741-c489871e-4a57-42e6-b070-409000009ca4.png)
+
+### <a name="1"></a> Dienstag, der 06.09.2022 
+Heute war es endlich soweit, ich wollte mit meinem eigenen Spiel beginnen. Die grobe Idee hatte ich schon im Kopf. Es sollte ein "Jump&Run" Spiel werden, wie man es z.B aus Supermario etc. kennt. Wobei der Charakter des Spiel für mich ersteinmal nebensächlich ist. Ich habe mir heute auch einen groben Plan überlegt, in welcher Reinfolge ich das Spiel programieren werde. Ich habe mich dazu entschieden ersteinmal, die Mechanik ins Spiel zu brinegn, die einen Spieler Springen und Fallen lässt. Also habe erst einmal recherchiert und bin schnell auf ein Video gestoßen, was genau diese Abläufe erklärt. Ich habe also zuerst einmal folgendes Video geschaut: https://www.youtube.com/watch?v=RHPhyhF7c3k (Teil 1 und 2).
+
+### <a name="1"></a> Mittwoch, der 07.09.2022 
+Ich habe heute direkt angefangen mit Greenfoot zuarbeiten. Die Tutorials, die ich bereits letzte Stunde angefangen habe, habe ich zuhause zu Ende geschaut. Ich habe es heute also direkt selbst einmal probiert. Hilfe hatte ich hier durch meine Notizen, die ich mir geamcht habe, um den gezeigten Code, besser zu lernen und zu verstehen.
+
+ 
 ### <a name="1"></a> Mittwoch, der 14.09.2022
 Die heutige Stunde began ich mit der Absicht heraus zufinden, wie ich eine scrollende Welt erstellen kann. Dies ist für mein Jump&Run spiel enorm wichtig da ich nicht nur in einer 
 kleinen Welt spielen will. Andererseits, muss sich meine Welt natürlich auch mitbwegen, ohne das der Spieler aus dem Sichtbereich läuft und man nicht manuell mit scrollen muss. Ein Youtube Tutorial sollte hier für Abhilfe sorgen.
@@ -29,7 +51,7 @@ Nach einigen Fehlern beschloss ich nun erst diese Scrollende Welt aufzubauen, al
 ### <a name="1"></a> Dienstag, der 27.09.2022
 
 Nach einwöchiger Pause, bedingt durch die Studienfahrt, habe ich mich nun wieder an die bearbeitung meines Projektes gemacht. In der vergangenen Stunde hatte ich es nicht geschafft die scrollende Welt zu erstellen. Also habe ich nochmal das Tutorial von vorne geschaut und erneut versucht 
-das Prinzip in meinem Spiel umzusetzen. Im Tutorial habe ich viele neue Möglichkeiten kennengelernt. Nach anfänglichen Schwierigkeiten konnte ich nach einiger Recherche nun gut mit Dingen wie Listen in Jave umgehen. 
+das Prinzip in meinem Spiel umzusetzen. Im Tutorial habe ich viele neue Möglichkeiten kennengelernt. Nach anfänglichen Schwierigkeiten konnte ich nach einiger Recherche nun gut mit Dingen wie Listen in Java umgehen. 
 Auch konnte ich einige Erfolge verbuchen, da ich mit meiner "scrollenden" Welt immer weiter voran kam. 
 
 ### <a name="1"></a> Mittwoch, der 28.09.2022

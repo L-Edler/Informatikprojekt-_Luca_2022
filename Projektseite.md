@@ -59,6 +59,7 @@ Im Editor gibt es dann verschiedne Methoden, die in den gelben Kästen gezeigt s
 
 ![Screenshot (25)](https://user-images.githubusercontent.com/111414185/208304667-c7346830-2a38-46f8-bd5a-e741a5b28d71.png)
 
+
 In der "public CatWorld" Methode werden u.a. die Parameter der Welt fest gelegt.
 
 ![Screenshot (26)](https://user-images.githubusercontent.com/111414185/208305363-154fbf59-8db1-4597-84ac-a1a62fb5d8e1.png)
@@ -74,6 +75,7 @@ Um also dafür zusorgen, dass der Hintergrund sich simultan mit dem Spieler bewe
 Dafür wird im Editor der CatWorld eine Methode erstellt, das verhalten bei einer veränderung der X-Koordinate beschreibt. (siehe Bild unten)
 
 ![Screenshot (27)](https://user-images.githubusercontent.com/111414185/208306451-b26d4137-d6f3-4a87-ad7a-c7d37b3c557e.png)
+
 
 Nun braucht es aber auch noch den Spieler, der diese Methode aufruft und somit den Hintergrund bewegt.
 Im Code der "Player" class wird in der Methode "public void checkKeys()" dies getan. 

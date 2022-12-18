@@ -8,7 +8,7 @@
   * [Grundprinzip](#Grundprinzip)
 
 * [Der Code des Spiels]
-   [Weltklassen]
+   [Weltklassen](#Weltklassen)
    * [Laser](#Laser)
    * [Sender](#Sender)
    [Actorklassen](#Empfänger)

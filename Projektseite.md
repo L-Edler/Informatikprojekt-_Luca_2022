@@ -43,6 +43,10 @@ Nun möchte ich mit der Erklärung meines Codes, dem Herzstück des Spiels, begi
 
 Mein Szenario heißt:Cat_Jump&Run
 
+In diese Szenarios lassen sich jetzt ganz verschieden Klassen einfügen. 
+
+![image](https://user-images.githubusercontent.com/111414185/208303678-a3aece75-c214-481c-9dd2-58fec5a943aa.png)
+
 
 
 

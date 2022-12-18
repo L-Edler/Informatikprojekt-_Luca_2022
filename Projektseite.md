@@ -10,13 +10,13 @@
 
 [Der Code des Spiels](#Der Code des Spiels)
    
-   [Weltklassen]
+   [Weltklassen](#Weltklassen)
      
      [Laser](#Laser)
      
      [Sender](#Sender)
    
-   [Actorklassen]
+   [Actorklassen](Actorklassen)
      
      [Hindernisse](#Hindernisse)
 

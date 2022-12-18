@@ -120,6 +120,9 @@ Neben diesen recht Komplexen Methoden, die dafür sorgen, dass sich unser Spiele
 ![Screenshot (42)](https://user-images.githubusercontent.com/111414185/208310147-fccce7e6-317a-4d78-854c-39de471ae135.png)
 
 Im Bild zusehen: Ein Teil der Methode u.a die spawn Koordinaten für Player und Maus etc.
+     
+
+     #### Die EndGame/Finish Klasse <a name Die EndGame/Finish Klasse></a>
    
 
 

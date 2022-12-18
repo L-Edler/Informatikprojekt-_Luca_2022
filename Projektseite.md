@@ -163,6 +163,20 @@ Das folgende Bild soll dies einmal verdeutlichen.
 ![Screenshot (52)](https://user-images.githubusercontent.com/111414185/208311486-8c6478ab-d08e-4c12-ac09-06c439c20684.png)
      
 Weiß man also wie das Koordinatensystem verläuft kann man eine einfache Methode schreiben, die die Y koordinate des Spielers um einen gewünschten Wert erhöht. Geschieht das dauert haft, fällt der Spieler
+     
+Nun soll der Spieler jedoch nicht durch alle Objekte in der Welt fallen. Auf den Platformen z.B soll er stehen können. 
+Es muss also eine Methode her, die erkennt ob eine Platform unter dem Spieler ist. 
+Hier kann man eine sog. boolean Methode nutzen. Diese liefert bei abruf eine Antwort, entweder wahr oder falsch. 
+Wir können also fragen, ob eine Platform unter dem Spieler ist.
+Wir erstellen eine Groundbelow Variable, die sagt, ob in einem gewissen abstand eine Platform vorhanden ist.
+Ist etwas in Reichweite, ist die Variable ungleich null, also bekommt man die entsprechende Antwort
+Ist nichts in Reichweite, ist die Variable gleich NUll.
+     
+![Screenshot (54)](https://user-images.githubusercontent.com/111414185/208311992-2c3fbd29-9c60-4b60-9071-1d51a524e201.png)
+
+
+
+
 
      
    

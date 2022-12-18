@@ -10,9 +10,9 @@
      
 ### [Actorklassen](#Actorklasssen)
 
-[Endprodukt](#Endprodukt)
+## [Endprodukt](#Endprodukt)
 
-[Stundenprotokoll](https://github.com/L-Edler/Blog-2022/blob/main/Stundentagebuch.md)
+## [Stundenprotokoll](https://github.com/L-Edler/Blog-2022/blob/main/Stundentagebuch.md)
  
 
 ## Das Programm <a name="Programm"></a>

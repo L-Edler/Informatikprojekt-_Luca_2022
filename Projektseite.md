@@ -10,13 +10,13 @@
 
 [Code](#Code)
    
-   [Weltklassen](#Weltklassen)
+   *[Weltklassen](#Weltklassen)
      
      [Laser](#Laser)
      
      [Sender](#Sender)
    
-   [Actorklassen](Actorklassen)
+   *[Actorklassen](Actorklassen)
      
      [Hindernisse](#Hindernisse)
 

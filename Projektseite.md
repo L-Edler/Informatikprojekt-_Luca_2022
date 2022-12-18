@@ -116,7 +116,10 @@ Nun kann man mit dem SetLocation Befehl die Position aller Actors verschieben.
 ![Screenshot (40)](https://user-images.githubusercontent.com/111414185/208309133-59d07353-c171-4049-b1c0-ae54929628ed.png)
      
 Neben diesen recht Komplexen Methoden, die dafür sorgen, dass sich unser Spieler mit dem Hintergrund in der Welt bewegt, gibt es für die CatWorld noch andere ebenso wichtige Methoden, die aber deutlich einfacher sind. So z.B die "prepare Methode" sie fügt lediglich alle Objekte vor Start des Spiels in die Welt ein. 
-   
+
+![Screenshot (42)](https://user-images.githubusercontent.com/111414185/208310147-fccce7e6-317a-4d78-854c-39de471ae135.png)
+
+Im Bild zusehen: Ein Teil der Methode u.a die spawn Koordinaten für Player und Maus etc.
    
 
 

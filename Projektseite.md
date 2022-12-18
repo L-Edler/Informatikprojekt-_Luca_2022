@@ -221,7 +221,8 @@ In einer anderen Methode wird dann dies abgefragt und je nach Ergebniss entschie
 Zuletzt geht es noch um die Bewegung der Ufos. Diese sind frei umherfliegend.
 Die Ufos bewegen sich mit einer Startgeschwindigkeit in eine Richtung. Sie wechseln dann nach einer zufälligen Strecke von 1-100 pixeln ihre Richtung und drehen sich um einen zufälligen winkel von -45 bis 45 Grad. Sollten sie auf eine Wand treffen, drehen sie sich ebenfalls im zufälligen Berich und kehren um. 
      
-![image](https://user-images.githubusercontent.com/111414185/208314374-9024155c-3c67-4f9d-90d4-4a1887c3c860.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/111414185/208315156-8d0c683f-6f1c-4639-86fd-2ddc4c56b3e6.png)
+
 
      
      

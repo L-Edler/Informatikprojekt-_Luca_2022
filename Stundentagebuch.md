@@ -40,7 +40,13 @@ Es findet sich unter https://www.greenfoot.org/doc und hat mehere Teile. Das Tut
 Heute war es endlich soweit, ich wollte mit meinem eigenen Spiel beginnen. Die grobe Idee hatte ich schon im Kopf. Es sollte ein "Jump&Run" Spiel werden, wie man es z.B aus Supermario etc. kennt. Wobei der Charakter des Spiel für mich ersteinmal nebensächlich ist. Ich habe mir heute auch einen groben Plan überlegt, in welcher Reinfolge ich das Spiel programieren werde. Ich habe mich dazu entschieden ersteinmal, die Mechanik ins Spiel zu brinegn, die einen Spieler Springen und Fallen lässt. Also habe erst einmal recherchiert und bin schnell auf ein Video gestoßen, was genau diese Abläufe erklärt. Ich habe also zuerst einmal folgendes Video geschaut: https://www.youtube.com/watch?v=RHPhyhF7c3k (Teil 1 und 2).
 
 ### <a name="1"></a> Mittwoch, der 07.09.2022 
-Ich habe heute direkt angefangen mit Greenfoot zuarbeiten. Die Tutorials, die ich bereits letzte Stunde angefangen habe, habe ich zuhause zu Ende geschaut. Ich habe es heute also direkt selbst einmal probiert. Hilfe hatte ich hier durch meine Notizen, die ich mir geamcht habe, um den gezeigten Code, besser zu lernen und zu verstehen.
+Ich habe heute direkt angefangen mit Greenfoot zuarbeiten. Die Tutorials, die ich bereits letzte Stunde angefangen habe, habe ich zuhause zu Ende geschaut. Ich habe es heute also direkt selbst einmal probiert. Hilfe hatte ich hier durch meine Notizen, die ich mir gemacht habe, um den gezeigten Code, besser zu lernen und zu verstehen.
+Ich habe meine eigene Welt erstellt und musste so nicht auf die, aus dem Tutorial stammende Welt zurückgreifen. lediglich am Hintergundbild habe ich mich bedient. Im Link der Ursprung des Bildes: https://informatikkeller.de/knight-jump-jumpnrun/
+
+### <a name="1"></a> Dienstag, der 13.09.2022
+Heute habe ich weiter an der Jump&Run Mechanik gearbeitet und konnte sie mithilfe des bereits erwähnten Tutorials auch abschließen. So habe ich nun eine Grundlage für mein weiteres Spiel, da nun die Bewegungsabläufe des Players fertig sind. Weiter muss es jetzt um die Welt um den Player herum gehen. Womit icch aber erst nächste Stunde beginnen werde.
+![Screenshot (7)](https://user-images.githubusercontent.com/111414185/208299594-60f2c235-6c7d-4862-a89e-99eae2136a32.png)
+
 
  
 ### <a name="1"></a> Mittwoch, der 14.09.2022

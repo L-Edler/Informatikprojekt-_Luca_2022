@@ -77,7 +77,15 @@ Dafür wird im Editor der CatWorld eine Methode erstellt, das verhalten bei eine
 
 Nun braucht es aber auch noch den Spieler, der diese Methode aufruft und somit den Hintergrund bewegt.
 Im Code der "Player" class wird in der Methode "public void checkKeys()" dies getan. 
-In dieser Methode wird einerseits festgelegt wie sich der Spieler bewegt durch das drücken der Tasten "a" oder "d" wird die X-Koordinate des Spielers jeweils um 5 Pixel nach links oder rechts verschoben. 
+In dieser Methode wird einerseits festgelegt wie sich der Spieler bewegt durch das drücken der Tasten "a" oder "d" wird die X-Koordinate des Spielers jeweils um 5 Pixel nach links oder rechts verschoben. Außerdem wird ein Bild für die jeweilige Bewegung eingefügt, damit es so aussieht, als würde der Spieler in beide Richtugen vorwärts laufen. 
+
+![Screenshot (30)](https://user-images.githubusercontent.com/111414185/208306887-27011b75-6b37-4a32-bc14-8c8aea2844a3.png)
+
+Außerdem wird über das drücken der Tasten festgelegt, wie die X-Koordinate des Hintergrundbildes verändert wird, sodass dieser sich mit dem Spieler bewegt und der Spieler augenscheinlich weiter läuft. Die Änderung geschieht hier, weil wieder die public void changeBackgroundX(int changeX) Methode aufgerufen wird. 
+Wichtig ist hier die Belegung der Tasten umgekehrt zum Spieler zumachen, denn der Hintergund muss sich nach links bewegen, wenn der Spieler nach rehcts läuft und umgekehrt. 
+
+
+
 
 
 
